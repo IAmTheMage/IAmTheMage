@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Sou estudante de Ciência da Computação na [UFJF](https://www2.ufjf.br/ufjf/) e atualmente estou em meu 2 ano.
-Desenvolvo com tecnologias como React, Django, Nodejs e React Native além de ser entusiasta de áreas como gamedev e
-linguagens diferentes como rust ou v.
+I'm a Computer Science student at [UFJF](https://www2.ufjf.br/ufjf/) and I'm currently in my 2nd year.
+I develop with technologies like Rust, C++, C and V.
 
-Campeão estadual das Olimpiadas do Conhecimento Senai e participante de competições de robótica FLL pela equipe Delta em
-São João Nepomuceno.
+State champion of the Senai Knowledge Olympics in Web Programming Category and participant in FLL robotics competitions for the Delta team in
+San Juan Nepomuceno.
 
-Tenho um blog em construção: https://blogdomago.herokuapp.com/
+
+I have a blog under construction: https://blogdomago.herokuapp.com/
+
+I'm currently part of the [Rinobot](https://www.instagram.com/rinobotbrasil/) team
 
 <div align="center">
   <a href="https://github.com/IAmTheMage">
