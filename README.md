@@ -18,7 +18,7 @@ I'm a Computer Science student at [UFJF](https://www2.ufjf.br/ufjf/) and I'm cur
 I develop with technologies like Rust, C++, C and V.
 
 State champion of the Senai Knowledge Olympics in Web Programming Category and participant in FLL robotics competitions for the Delta team in
-San Juan Nepomuceno.
+São João Nepomuceno.
 
 
 I have a blog under construction: https://blogdomago.herokuapp.com/
