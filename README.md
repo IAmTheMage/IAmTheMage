@@ -1,4 +1,4 @@
-### Olá, me chamo Gustavo Gonçalves 🔮
+### Hello, my name is Gustavo 🔮
 
 <!--
 **IAmTheMage/IAmTheMage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
