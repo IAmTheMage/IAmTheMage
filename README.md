@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Computer Science student at [UFJF](https://www2.ufjf.br/ufjf/) and I'm currently in my 2nd year.
+I'm a Computer Science student at [UFJF](https://www2.ufjf.br/ufjf/) and I'm currently in my third year.
 I develop with technologies like Rust, C++, C and V.
 
 State champion of the Senai Knowledge Olympics in Web Programming Category and participant in FLL robotics competitions for the Delta team in
 São João Nepomuceno.
 
 
-I have a blog under construction: https://blogdomago.herokuapp.com/
+Currently i'm working on [Fundação CAED](https://fundacaocaed.org.br/#!/pagina-inicial) with Natural Language Processing
 
 I'm currently part of the [Rinobot](https://www.instagram.com/rinobotbrasil/) team
 
